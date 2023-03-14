@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashik Saeed Supto
 
-- 💻 I am a Full-Stack Software Engineer
+- 💻 I am a Full-Stack Software Engineer & Also a Top Rated Plus Freelancer in UpWork
 
 - 🐡 I have been leading [Cloudly’s](https://cloudly.io/) nimble, but mighty development team and led the development of a few complex Enterprise solutions that work across iOS, Android, and Web platforms over the past 7+ years. I pioneered the architecture, design, and development of a “mobile-first approach” at Cloudly while developing a College Alumni digital platform and cleverly designed a React Native application that works seamlessly across all different platforms. It is currently used by tens of thousands of users.
 
