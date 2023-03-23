@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Ashik Saeed Supto
 
-- 💻 I am a Full-Stack Software Engineer & Also a Top Rated Plus Freelancer in UpWork
+- 💻 I'm a Full-Stack Software Engineer and a Top Rated Plus Freelancer on UpWork.
 
-- 🐡 I have been leading [Cloudly’s](https://cloudly.io/) nimble, but mighty development team and led the development of a few complex Enterprise solutions that work across iOS, Android, and Web platforms over the past 7+ years. I pioneered the architecture, design, and development of a “mobile-first approach” at Cloudly while developing a College Alumni digital platform and cleverly designed a React Native application that works seamlessly across all different platforms. It is currently used by tens of thousands of users.
+- 🐡 Over the past 7+ years, I have led [Cloudly’s](https://cloudly.io/) nimble but mighty development team and delivered complex Enterprise solutions that work seamlessly across iOS, Android, and Web platforms. I pioneered a "mobile-first approach" at Cloudly, developing a College Alumni digital platform and a React Native application that is currently used by tens of thousands of users.
 
-- 🌿 I lead mobile, and backend teams, mentoring these development teams across the entire development cycle - from user experience and design patterns to database schema and API designs. I drive the teams with fast iteration and smooth integration between different software / UI components and contents. I excel in design, code, debugging, and performance tuning of complex component interactions on- and off-platform in order to ensure high quality. well-functioning software that always delivers optimal user experience.
+- 🌿 As a leader of mobile and backend teams, I mentor development teams across the entire development cycle, from user experience and design patterns to database schema and API designs. I drive fast iteration and smooth integration between different software/UI components and contents. I excel in designing, coding, debugging, and performance tuning of complex component interactions on- and off-platform to ensure high-quality, well-functioning software that delivers optimal user experience.
 
-- 🔥 I feel comfortable working with Kotlin, Java & TypeScript
+- 🔥 I'm proficient in Kotlin, Java, and TypeScript.
 
 - 💼 You can hire me at [UpWork](https://www.upwork.com/freelancers/~01bb1dff40a565a344)
 
