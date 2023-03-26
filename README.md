@@ -9,8 +9,6 @@
 - 🔥 I'm proficient in Kotlin, Java, and TypeScript.
 
 - 💼 You can hire me at [UpWork](https://www.upwork.com/freelancers/~01bb1dff40a565a344)
-
-- 📧 Also you can Find me at ashiksaeedsupto@gmail.com
 <!---
 supto09/supto09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
