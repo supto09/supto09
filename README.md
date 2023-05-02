@@ -63,6 +63,8 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint" /></code>
 </div>
 
+Thanks for checking out my profile.
+
 <!---
 supto09/supto09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
